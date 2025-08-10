@@ -12,7 +12,7 @@ Two SEO analysis workflows using MCP (Model Context Protocol) tools. Copy-paste 
 
 ### 1. Install the MCP Server
 ```bash
-git clone https://github.com/yourusername/seo-workflows-claude.git
+git clone https://github.com/dexter480/mcp-seo-workflows
 cd seo-workflows-claude
 pip install -r requirements.txt
 ```
